@@ -1,0 +1,6 @@
+.claude/
+*.pdf
+prompt.txt
+*.log
+node_modules/
+.env
